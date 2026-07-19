@@ -43,10 +43,18 @@ To execute the automated deployment, open your Google Cloud Shell terminal and r
 
 ```bash
 # 1. Download the automated script
-curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/](https://raw.githubusercontent.com/saswatsubhransudev/)[YOUR_REPO_NAME]/refs/heads/main/saswatsubhransu.sh
+curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh](https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh)
 
 # 2. Grant execution permissions
 sudo chmod +x saswatsubhransu.sh
 
 # 3. Execute the script
 ./saswatsubhransu.sh
+
+
+👨‍💻 Developed By
+Saswat Subhransu Singh
+
+Professional Software Developer & Google Cloud Arcade Facilitator
+
+✨ Thank you for using this guide! Keep learning, keep building, keep growing. ✨
