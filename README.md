@@ -42,6 +42,6 @@ Instead of manually navigating the Google Cloud Console, this script interacts d
 To execute the automated deployment, open your Google Cloud Shell terminal, copy the block below, and paste it to run the commands:
 
 ```bash
-curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh](https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh)
+curl -LO https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh
 sudo chmod +x saswatsubhransu.sh
 ./saswatsubhransu.sh
