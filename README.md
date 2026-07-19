@@ -45,3 +45,7 @@ To execute the automated deployment, open your Google Cloud Shell terminal, copy
 curl -LO https://raw.githubusercontent.com/saswatsubhransudev/API-Gateway-Qwik-Start-GSP872/refs/heads/main/saswatsubhransu.sh
 sudo chmod +x saswatsubhransu.sh
 ./saswatsubhransu.sh
+
+---
+🎉 Congratulations! Lab Completed Successfully! 🏆
+---
